@@ -3,3 +3,4 @@ git add nomdufichier.txt : ajouter des données à un fichier de base
 git commit -m "message" : envoi des données et validation du fichier
 git push : permet de pousser les données sur le repertoire distant
 git pull : permet d'extraire les données du répertoire distant
+git clone : clôner un repertoire distant
